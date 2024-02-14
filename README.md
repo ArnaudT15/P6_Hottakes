@@ -17,7 +17,7 @@ run npm install, and run npm install --save-dev run-script-os
 
 ## Démarrage
 
-- Dans le dossier backend, créez un dosser images
+- Dans le dossier backend, créez un dossier images
 - Créez un fichier dev.env à la racine du dossier backend
 - Remplissez le de la maniere suivante:
 NODE_ENV=dev
